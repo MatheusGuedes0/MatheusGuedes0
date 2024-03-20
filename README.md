@@ -21,6 +21,18 @@ analysis \space  and  \space systems \space development \space  student \space  
   <img src = "[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXgzZm9uNzg1YjFhZGRwcHU2ZXI1amRxcjVxaDc5aGQ0dGhtaHBtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10LKovKon8DENq/giphy.gif](https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv)" width="300"/>
 </div>
 
+<div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/matheusrsguedes1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href = "mailto:matheusrsguedes1@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href = "https://www.instagram.com/matheusguedes0/">
+    <img src="https://img.shields.io/badge/-Instagram-%FFFFFF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
+
 
  
 - 💞️ I’m looking to collaborate on ...
