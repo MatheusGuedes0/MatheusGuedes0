@@ -1,9 +1,11 @@
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2tpYnprbmt0aGp1M2FmZHk4OXhtZW5hMzgwODh2dXBuMDNrMXV4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12XxYnYLMEn6yA/giphy.gif" width="220" height="180">
+
 ## ${\color{#800000} Hello, \space world!}$ 
 
  ${\color{#000}💻 I'm \space currently \space a \space 
 analysis \space  and  \space systems \space development \space  student \space  at \space}$  ${\color{#ffd700} UTFPR. }$
 
- ${\color{#2E5757}🌎 Paraná, \space Brazil.}$
+ ${\color{#000}🌎 Paraná, \space Brazil.}$
  
  ${\color{#000}🌱 I’m \space currently \space learning:}$
  
@@ -18,7 +20,7 @@ analysis \space  and  \space systems \space development \space  student \space  
 </div>
 
 <div id="header" align="center">
-  <img src = "[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXgzZm9uNzg1YjFhZGRwcHU2ZXI1amRxcjVxaDc5aGQ0dGhtaHBtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10LKovKon8DENq/giphy.gif](https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv)" width="300"/>
+  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNhbXhtamUwMHpxZ2pobnQzbGljZGcyMmh1Zzg4eHlobjBvbDY5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MbdbKo343XcqLeRE8S/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align = "center">
@@ -33,12 +35,6 @@ analysis \space  and  \space systems \space development \space  student \space  
   </a>
 </div>
 
-
- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 MatheusGuedes0/MatheusGuedes0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
