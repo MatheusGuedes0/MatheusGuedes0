@@ -2,8 +2,8 @@
 
 ## ${\color{#800000} Hello, \space world!}$ 
 
- 💻 I'm \space currently \space a \space 
-analysis \space  and  \space systems \space development \space  student \space  at \space}$  ${\color{#ffd700} UTFPR. 
+ ## ${💻 I'm \space currently \space a \space 
+analysis \space  and  \space systems \space development \space  student \space  at \space}$  ${\color{#ffd700} UTFPR.}$ 
 
  ${\color{#000}🌎 Paraná, \space Brazil.}$
  
