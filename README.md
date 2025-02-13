@@ -5,14 +5,14 @@
  ${💻  I'm \space currently \space a \space 
 analysis \space  and  \space systems \space development \space  student \space  at \space}$  ${\color{#ffd700} UTFPR.}$ 
 
- ${\color{#000}🌎 Paraná, \space Brazil.}$
+ ${🌎 Paraná, \space Brazil.}$
  
- ${\color{#000}🌱 I’m \space currently \space learning:}$
+ ${🌱 I’m \space currently \space learning:}$
  
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-###  ${\color{#000}GitHub \space Stats:}$ 
+###  ${GitHub \space Stats:}$ 
 
 <div align="center" justify-items="space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusGuedes0&rank_icon=github&theme=react&include_all_commits=true&count_private=true&title_color=FFD700" height="150em" />  
