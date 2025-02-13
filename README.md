@@ -1,3 +1,17 @@
+<style>
+  /* Define uma cor clara para o texto no modo escuro */
+  body {
+    color: #000000; /* Cor de texto padrão */
+  }
+  
+  /* Estilos para o modo escuro */
+  @media (prefers-color-scheme: dark) {
+    body {
+      color: #f0f0f0; /* Cor mais clara para o modo escuro */
+    }
+  }
+</style>
+
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2tpYnprbmt0aGp1M2FmZHk4OXhtZW5hMzgwODh2dXBuMDNrMXV4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12XxYnYLMEn6yA/giphy.gif" width="220" height="180">
 
 ## ${\color{#800000} Hello, \space world!}$ 
