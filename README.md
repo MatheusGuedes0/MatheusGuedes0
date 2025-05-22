@@ -11,6 +11,8 @@ analysis \space  and  \space systems \space development \space  student \space  
  
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+<img height="30" width="30" src="https://www.svgrepo.com/show/473731/mysql.svg" />
 
 ###  ${GitHub \space Stats:}$ 
 
